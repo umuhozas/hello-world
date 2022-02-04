@@ -12,3 +12,9 @@ Below is a picture of a beautiful mountain from Rwanda.
 Below is a simple math division equation example
 
 ![math-division](https://latex.codecogs.com/gif.latex?%5Cfrac%7Ba%5E8%7D%7Ba%5E5%7D%20%3D%20a%5E3)
+
+
+```Python
+import numpy as np
+np.sine(0.2)
+```
